@@ -1,0 +1,10 @@
+Para realizar este proyecto se ha utilizado python 3.6.5 y django 2
+
+el connector mysqlclient apunta a localhost user root sin contraseña
+directorio de inicio de la app /home/
+
+para modificar los campos de los intereses del cliente se debe acceder a /admin user berske pass labrad0r en el model Gustos
+
+Para iniciar el proyecto pocisionarse en la carpeta de express server usar .\Scripts\activate , cd chapp y usar python manage.py 
+
+Espero que no se me escape nada, ante cualquier error estare atento.

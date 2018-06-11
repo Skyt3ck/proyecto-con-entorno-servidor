@@ -1,0 +1,6 @@
+[client]
+database = chapp
+host = localhost
+user = root
+password = labrad0r
+default-character-set = utf8
